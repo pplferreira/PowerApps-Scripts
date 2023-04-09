@@ -1,15 +1,3 @@
-﻿#Verificar politicas
-#Get-ExecutionPolicy -List
-
-#Setar Politicas
-#Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-
-
-#verfificar modulos a instalar:
-#Install-Module -Name Microsoft.PowerApps.Administration.PowerShell -Scope CurrentUser
-#Install-Module -Name Microsoft.PowerApps.PowerShell -AllowClobber -Scope CurrentUser
-
-
 #Limpa a tela do prompt
 Clear
 
