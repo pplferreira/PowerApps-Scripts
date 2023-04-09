@@ -4,9 +4,11 @@ Scripts desenvolvidos em PowerShell para facilitar a administração na Power Pl
 Antes de executar verifique se as suas politicas estão aderentes:
 
 #Verificar politicas
+
 Get-ExecutionPolicy -List
 
 #Setar Politicas
+
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 
