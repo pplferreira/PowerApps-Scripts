@@ -3,6 +3,6 @@
            DisplayName: "",
            Email: "",
            JobTitle: "",
-           Picture: ""
+           Picture: "",
            Department: ""
 }
