@@ -1,8 +1,8 @@
 {
-           Claims: "i:0#.f|membership|" & //INCLUIREMAIL,
-           DisplayName: "",
-           Email: "",
-           JobTitle: "",
-           Picture: "",
-           Department: ""
-}
+        Claims: "i:0#.f|membership|" & //INCLUIR EMAIL;
+        DisplayName: //INCLUIR DISPLAYNAME;
+        Email: //INCLUIR EMAIL;
+        JobTitle: "";
+        Picture: "";
+        Department: ""
+    }
