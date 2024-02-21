@@ -1,6 +1,5 @@
 {
            Claims: "i:0#.f|membership|" & //INCLUIREMAIL,
-           Department: "",
            DisplayName: "",
            Email: "",
            JobTitle: "",
